@@ -1,7 +1,9 @@
 # Bayesian Huff Model with MCMC for Spatial Choice Modeling
 
 **Author:** Divya Natekar
+
 **NYU Net ID:** dyn2009
+
 **Email:** [dyn2009@nyu.edu](mailto:dyn2009@nyu.edu)
 
 ## Overview
